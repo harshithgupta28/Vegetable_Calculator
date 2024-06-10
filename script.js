@@ -102,7 +102,7 @@ function generateBill() {
     const doc = new jsPDF();
 
     doc.setFontSize(18);
-    doc.text('Prabhakar Vegetables', 20, 20);
+    doc.text('Lakshmi Vegetables', 20, 20);
     doc.setFontSize(12);
     doc.text('Vegetable Market Bill', 20, 30);
 
